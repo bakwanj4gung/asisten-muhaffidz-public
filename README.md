@@ -1,6 +1,3 @@
-<img width="1899" height="867" alt="image" src="https://github.com/user-attachments/assets/afc16ae1-4e2b-4b8c-867d-909ff2adac1e" />This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
 # Asisten Muhaffidz
 
 Made for Final Project. 
@@ -29,6 +26,8 @@ finaly, run apps by running:
 npm run dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 ***Screenshots***
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/landing-page.png?raw=true" alt="landing page"> 
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-home.png?raw=true" alt="dashboard home"> 
@@ -39,4 +38,3 @@ npm run dev
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-hasil.png?raw=true" alt="dashboard jadwal hasil"> 
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-hasil-detail.png?raw=true" alt="dashboard hasil detail"> 
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-edit-profile.png" alt="edit profile">
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
