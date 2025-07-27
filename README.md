@@ -9,16 +9,26 @@ Muhafidz Assistant is an application for Muhafidz (Tahfidz Teachers) in terms of
 
 ## Getting Started
 
-First, run the development server:
-
+Clone this repository, by running:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/bakwanj4gung/asisten-muhaffidz-public
 ```
 
+then, change the directory to the peoject directory:
+```bash
+cd asisten-muhaffidz-public
+```
+
+and install the dependencies:
+```bash
+npm install
+```
+
+finaly, run apps by running:
+```bash
+npm run dev
+```
+
+***Screenshots***
+<img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-edit-profile.png?raw=true" alt="edit profile">
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
