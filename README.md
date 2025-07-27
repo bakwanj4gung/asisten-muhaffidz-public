@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1899" height="867" alt="image" src="https://github.com/user-attachments/assets/afc16ae1-4e2b-4b8c-867d-909ff2adac1e" />This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 # Asisten Muhaffidz
@@ -38,5 +38,5 @@ npm run dev
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-jadwal-detail.png?raw=true" alt="dashboard jadwal detail"> 
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-hasil.png?raw=true" alt="dashboard jadwal hasil"> 
 <img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-hasil-detail.png?raw=true" alt="dashboard hasil detail"> 
-<img src="https://github.cjadwal/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-edit-profile.png?raw=true" alt="edit profile">
+<img src="https://github.com/bakwanj4gung/asisten-muhaffidz-public/blob/main/screenshoots/dashboard-edit-profile.png" alt="edit profile">
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
