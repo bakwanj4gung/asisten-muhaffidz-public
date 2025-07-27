@@ -42,6 +42,7 @@ export default function Sidenav() {
                         <MenuSidenav icon={faPhone} value={'Contact Person'} />
                     </ul>
                 </div>
+                <div className='flex-1 h-36 w-full'></div>
                 <Popover showArrow placement='top' backdrop={'transparent'} size={'lg'}>
                         <PopoverTrigger>
                             <div className={`group mb-5 w-full xl:absolute md:mt-1 bottom-0 left-0 z-10 flex items-center justify-between px-4 py-3 text-sm transition-all duration-200 cursor-pointer hover:bg-primary ${isProfileActive ? 'bg-secondary' : ''}`}>
